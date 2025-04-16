@@ -4,3 +4,5 @@ https://github.com/sseezov/demo-docs/blob/main/%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1
 
 ### Шаблон для Electron.js (если пишете на Electron): 
 https://github.com/sseezov/demo-2025-electron-template
+
+![2025-04-16 18 46 22](https://github.com/user-attachments/assets/96d56ab8-4afc-4f02-ba71-9e4578350024)
